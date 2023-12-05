@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace csharp_fundamentals_class_members.Main
+﻿namespace csharp_fundamentals_class_members.Main
 {
     public class Core
     {
@@ -25,7 +18,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 2. Create a String member named firstName with a value of "Jane"
-
+        public string firstName = "Jane";
 
 
         //TODO: 3. Create a boolean member named isProgrammer with a value of true
