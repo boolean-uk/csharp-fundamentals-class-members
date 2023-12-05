@@ -22,6 +22,7 @@
 
 
         //TODO: 3. Create a boolean member named isProgrammer with a value of true
+        public bool isProgrammer;
 
 
 
@@ -37,6 +38,6 @@
 
 
         //TODO: 6. Change the visibility below so that the tests pass
-        private bool isVisible = true;
+        public bool isVisible = true;
     }
 }
