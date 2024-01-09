@@ -44,6 +44,6 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 6. Change the visibility below so that the tests pass
-         bool isVisible = true;
+         public bool isVisible = true;
     }
 }
