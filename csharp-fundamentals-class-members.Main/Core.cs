@@ -26,11 +26,11 @@ namespace csharp_fundamentals_class_members.Main
 
         //TODO: 2. Create a String member named firstName with a value of "Jane"
 
-        string firstName = "Jane";
+        public string firstName = "Jane";
 
         //TODO: 3. Create a boolean member named isProgrammer with a value of true
 
-        bool isProgrammer = true;
+        public bool isProgrammer = true;
 
 
         //TODO: 4. Change the value below so that the tests pass. Check the README.md file for instructions on
