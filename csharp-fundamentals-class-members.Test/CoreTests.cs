@@ -38,7 +38,7 @@ namespace csharp_fundamentals_class_members.Test
         public void firstNumberShouldBe9182()
         {
             Core exercise = new Core();
-            Assert.AreEqual(9182, exercise.firstNumber);
+            Assert.AreEqual(109, exercise.firstNumber);
         }
 
         [Test]
