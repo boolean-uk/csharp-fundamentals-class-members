@@ -40,7 +40,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 5. Change the value below so that the tests pass
-        public string firstString = "Ruby is to Python what car is to carpet.";
+        public string firstString = "Java is to Javascript what car is to carpet.";
 
 
 
