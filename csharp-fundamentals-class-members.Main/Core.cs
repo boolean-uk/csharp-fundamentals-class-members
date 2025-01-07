@@ -20,7 +20,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 1. Create an integer member named age with a value of 32
-        public int age = 33;
+        public int age = 32;
 
 
 
