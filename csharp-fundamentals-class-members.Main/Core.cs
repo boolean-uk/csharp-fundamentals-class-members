@@ -24,7 +24,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
 
-        //TODO: 2. Create a String member named firstName with a value of "Jane"
+        //TODO: 2. Create a String member named firstName with a value of "Jane
         public string firstName = "Jane";
 
 
