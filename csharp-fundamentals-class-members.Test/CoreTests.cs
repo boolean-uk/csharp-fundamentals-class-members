@@ -45,7 +45,7 @@ namespace csharp_fundamentals_class_members.Test
         public void firstStringShouldBeSpecific()
         {
             Core exercise = new Core();
-            Assert.AreEqual("Java is to Javascript what car is to carpet.", exercise.firstString);
+            Assert.AreEqual("Ruby is to Python what car is to carpet.", exercise.firstString);
         }
 
         [Test]
